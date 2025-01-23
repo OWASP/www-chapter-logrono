@@ -29,5 +29,3 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 - Chapters are led by local leaders following the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online through authorized donation options.
 
 - We welcome and encourage participation in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). OWASP provides an excellent opportunity to learn, network, and build expertise in application security. We also encourage becoming a [member](/membership/) or making a [donation](/donate/) to support our ongoing efforts.
-
-## Next Meeting/Event
