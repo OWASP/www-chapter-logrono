@@ -12,4 +12,8 @@ tags: logrono
 ## Next Meeting/Event(s)
 
 [//]: # (Comment: When updating the next event info also update the homepage)
-#### Soon you will see our update (in-person/hybrid)
+#### Logroño, La Rioja Chapter Meeting
+
+In this time we will meet in Febrary 27th. in soon you can see more information abou the event.
+
+#### See you soon
