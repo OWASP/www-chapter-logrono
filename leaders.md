@@ -2,4 +2,3 @@
 * [Oscar Orellana](mailto:oscar.orellana.artigas@owasp.org)
 * [Luis Marqueta](mailto:luis.marqueta@owasp.org)
 * Pablo Gómez
-* [Luis Marqueta](mailto:luis.marqueta@owasp.org)
