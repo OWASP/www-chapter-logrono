@@ -1,9 +1,9 @@
 ---
 
 layout: col-sidebar
-title: OWASP Logrono, La Rioja
+title: OWASP Logroño, La Rioja
 site_side: true
-tags: logrono
+tags: logroño
 level: 3
 region: Europe
 country: Spain
