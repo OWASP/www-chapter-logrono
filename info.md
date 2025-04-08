@@ -1,4 +1,4 @@
-### Logrono Information
+### Logroño Information
 * Provide Group Information
 
 ### Social Links
