@@ -21,23 +21,23 @@ Así, pudimos disfrutar de tres charlas técnicas de primer nivel:
 
 En su ponencia nos habló de API Pentesting, de las limitaciones de los scanners automáticos y de la importancia del modelado de amenazas en los análisis.
 
-![Takaharu Ogasa](/assets/images/event-q2-takaharu.jpeg)
+![Takaharu Ogasa](assets/images/event-q2-takaharu.jpeg)
 
 - [Pablo Gómez](https://es.linkedin.com/in/pablogomezsanchez), co-fundador de [Redsauce](https://www.redsauce.net/es) y co-líder de OWASP Logroño, compartió varios casos de uso prácticos de la herramienta de análisis [ZAP](https://www.zaproxy.org/).
 
 Y esto no acaba aquí porque no todo es mostrar diapositivas; próximamente organizaremos un taller práctico para profundizar en su uso.
 
-![Pablo Gómez](/assets/images/event-q2-pablo.jpeg)
+![Pablo Gómez](assets/images/event-q2-pablo.jpeg)
 
 - [Spyros Gasteratos](https://uk.linkedin.com/in/spyr), actualmente afincado en Londres, es fundador y CEO de [Smithy.security](https://smithy.security), una empresa que desarrolla productos de código abierto para democratizar y simplificar la seguridad en el desarrollo de software.
 
 Spyros presentó su herramienta [Smithy](https://smithy.security/), cuyo objetivo es ayudar a la orquestación de workflows que, mediante una configuración sencilla permite integrar múltiples herramientas, reducir tareas manuales repetitivas, estandarizar la seguridad en entornos DevSecOps y, así, reducir en un elevado porcentaje el esfuerzo empleado en la securización de las aplicaciones. 
 
-![Spyros](/assets/images/event-q2-spyros.jpeg)
+![Spyros](assets/images/event-q2-spyros.jpeg)
 
 La jornada no concluyó con las charlas técnicas, sino que se prolongó en un ambiente distendido, donde tuvimos la oportunidad de seguir conversando con los ponentes y demás asistentes mientras disfrutábamos de unos vinos.
 
-![Spyros](/assets/images/event-q2-after.jpeg)
+![Spyros](assets/images/event-q2-after.jpeg)
 
 Gracias a todas las personas que asistieron porque sin ellas no tendría sentido alguno y a SDi por cedernos sus instalaciones para la ocasión.
 
