@@ -1,5 +1,4 @@
 ---
-
 layout: col-sidebar
 title: OWASP Logroño, La Rioja
 site_side: true
@@ -8,10 +7,12 @@ level: 3
 region: Europe
 country: Spain
 meetup-group: https://www.meetup.com/owasp-logrono-chapter/
-
 ---
+
 ![Logroño Chapter Image](assets/images/PHOTO-2024-09-02-20-49-03%202.jpg)
+
 ## Welcome
+
 This is the information about the Logroño, La Rioja Chapter. Below, you will find details about the meeting, social media, and other relevant information.
 
 - **OWASP Logroño, La Rioja Chapter**, one of the newest at OWASP, is dedicated to being a cybersecurity hub, combining great wine and engaging stories to foster top-quality cybersecurity initiatives and an informed community.
@@ -22,8 +23,8 @@ This is the information about the Logroño, La Rioja Chapter. Below, you will fi
 
 - **Meetup Group**: [OWASP Logroño Chapter Meetup](https://www.meetup.com/owasp-logrono-chapter/)
 
-
 ## Participation
+
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation working to improve software security. All our projects, tools, and resources are open to the public, encouraging anyone interested to participate.
 
 - Chapters are led by local leaders following the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online through authorized donation options.

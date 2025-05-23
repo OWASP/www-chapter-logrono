@@ -9,6 +9,10 @@ tags: logrono
 
 ## Past Events
 
+#### Thursday, 22nd May 2025 18:00 (in-person)
+
+Coming soon!
+
 #### Thursday, 27th February 2025 18:00 (in-person)
 
 El pasado jueves 27 de febrero nos reunimos para hablar de Threat Modeling. Hubo una pequeña charla por parte de Luis Marqueta antes de realizar un taller práctico usando las cartas de <a href="https://github.com/adamshostack/eop">Elevation of Privilege</a>.
