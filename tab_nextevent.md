@@ -1,9 +1,9 @@
 ---
 title: NextEvent
 displaytext: Next Event
-layout: true
+layout: null
 tab: true
-order: 2
+order: 1
 tags: logrono
 ---
 

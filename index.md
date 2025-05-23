@@ -6,6 +6,7 @@ tags: logroño
 level: 3
 region: Europe
 country: Spain
+currency: EUR
 meetup-group: https://www.meetup.com/owasp-logrono-chapter/
 ---
 
