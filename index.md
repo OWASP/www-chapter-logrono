@@ -1,6 +1,6 @@
 ---
 layout: col-sidebar
-title: OWASP Logroño, La Rioja
+title: OWASP Logroño
 site_side: true
 tags: logroño
 level: 3
@@ -10,9 +10,9 @@ currency: EUR
 meetup-group: https://www.meetup.com/owasp-logrono-chapter/
 ---
 
-![Logroño Chapter Image](assets/images/PHOTO-2024-09-02-20-49-03%202.jpg)
-
 ## Welcome
+
+![Logroño Chapter Image](assets/images/PHOTO-2024-09-02-20-49-03%202.jpg)
 
 This is the information about the Logroño, La Rioja Chapter. Below, you will find details about the meeting, social media, and other relevant information.
 

@@ -1,10 +1,12 @@
 ---
+
 title: NextEvent
 displaytext: Next Event
 layout: null
 tab: true
 order: 1
-tags: logrono
+tags: logroño
+
 ---
 
 ## Next Meeting/Event(s)
