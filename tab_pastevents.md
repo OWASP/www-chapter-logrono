@@ -1,15 +1,15 @@
 ---
 
 title: PastEvents
-displaytext: Past Events
+displaytext: Eventos pasados
 layout:  null
 tab: true
 order: 2
-tags: logroño
+tags: Logroño
 
 ---
 
-## Past Events
+## Eventos pasados
 
 ### Jueves, 22 de mayo de 2025 18:00 (presencial)
 
