@@ -1,11 +1,11 @@
 ---
 
 title: NextEvent
-displaytext: Próximo evento
+displaytext: Next Event
 layout: null
 tab: true
 order: 1
-tags: Logroño
+tags: logroño
 
 ---
 
