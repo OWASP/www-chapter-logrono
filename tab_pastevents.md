@@ -1,11 +1,11 @@
 ---
 
 title: PastEvents
-displaytext: Eventos pasados
+displaytext: Past Events
 layout:  null
 tab: true
 order: 2
-tags: Logroño
+tags: logroño
 
 ---
 
