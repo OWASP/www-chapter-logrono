@@ -1,11 +1,11 @@
-### Logroño Information
+### Información general
 
-* [Become a Member](https://www.owasp.org/index.php/Membership)
-* [Local Chapter Support](https://owasp.org/donate)
-* [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
-* [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
+* [Ser miembro](https://www.owasp.org/index.php/Membership)
+* [Soporte al capítulo local](https://owasp.org/donate)
+* [Normas del ponente](https://owasp.org/www-policy/legal/speaker-agreement)
+* [Código de conducta](https://owasp.org/www-policy/operational/conferences-events.html)
 
-### Social Links
+### Redes sociales
 
 * [Meetup](https://www.meetup.com/owasp-logrono-chapter/)
 * [LinkedIn](https://www.linkedin.com/company/owasp-logrono)
