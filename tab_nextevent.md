@@ -1,17 +1,17 @@
 ---
 
-title: NextEvent
-displaytext: Next Event
+title: ProxEvento
+displaytext: Próximo evento
 layout: null
 tab: true
 order: 1
-tags: logroño
+tags: Logroño
 
 ---
 
-## Next Meeting/Event(s)
+## Siguiente charla/evento(s)
 
-Estamos ya preparando el siguiente evento que tendrá lugar con toda probabilidad a principios de septiembre. Anunciaremos la fecha lo antes posible.
+Estamos ya preparando el siguiente evento que tendrá lugar con toda probabilidad a finales de septiembre. Anunciaremos la fecha lo antes posible.
 
 ¿Quieres participar o sugerir algún tema? Ponte en contacto con los organizadores con tu propuesta, ¡estaremos encantados de recibirla!
 
