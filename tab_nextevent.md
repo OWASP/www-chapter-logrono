@@ -1,6 +1,6 @@
 ---
 
-title: ProxEvento
+title: NextEvent
 displaytext: Próximo evento
 layout: null
 tab: true
