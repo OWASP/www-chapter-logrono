@@ -49,7 +49,7 @@ In this time we have the participation as speaker Leocadio Marrero, David Reyes,
 Soon we are shearing the videos of the event.
 
 <td>
-    <img src="assets/images/IMG_2881.jpg">
+    <img src="assets/images/presentacion_owasp-lo_2882.jpg">
 </td>
 
 <td>
