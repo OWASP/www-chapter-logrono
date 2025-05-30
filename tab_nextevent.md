@@ -1,7 +1,7 @@
 ---
 
 title: NextEvent
-displaytext: Next Event
+displaytext: Próximamente
 layout: null
 tab: true
 order: 1

@@ -1,7 +1,7 @@
 ---
 
 title: PastEvents
-displaytext: Eventos pasados
+displaytext: Años anteriores
 layout:  null
 tab: true
 order: 3
