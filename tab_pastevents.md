@@ -46,32 +46,30 @@ Our last event in Logroño was an amazing opportunity to explain what OWASP mean
 
 In this time we have the participation as speaker Leocadio Marrero, David Reyes, Spyros, Oscar Orellana and Grant Onger, you can see the event pictures in here.
 
-Soon we are shearing the videos of the event.
-
 <td>
     <img src="assets/images/IMG_2881.HEIC.jpg">
 </td>
 
 <td>
-    <img src="assets/images/IMG_3547.jpg">
+    <img src="assets/images/IMG_3547.HEIC.jpg">
 </td>
 
 <td>
-    <img src="assets/images/IMG_3548.jpg">
+    <img src="assets/images/IMG_3548.HEIC.jpg">
 </td>
 
 <td>
-    <img src="assets/images/IMG_3552.jpg">
+    <img src="assets/images/IMG_3552.HEIC.jpg">
 </td>
 
 <td>
-    <img src="assets/images/IMG_2891.jpg">
+    <img src="assets/images/IMG_2891.HEIC.jpg">
 </td>
 
 <td>
-    <img src="assets/images/IMG_2901.jpg">
+    <img src="assets/images/IMG_2901.HEIC.jpg">
 </td>
 
 <td>
-    <img src="assets/images/IMG_2903.jpg">
+    <img src="assets/images/IMG_2903.HEIC.jpg">
 </td>
