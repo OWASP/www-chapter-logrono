@@ -33,6 +33,10 @@ Y esto no acaba aquí porque no todo es mostrar diapositivas; próximamente orga
 
 ![Pablo Gómez](assets/images/event-q2-pablo.jpeg)
 
+Material de la presentación:
+
+* [Introducción a Zap](assets/presentaciones/Introducción%20a%20ZAP.pdf)
+
 #### How I reduced my AppSec workload (by 70%)
 
 [Spyros Gasteratos](https://uk.linkedin.com/in/spyr), actualmente afincado en Londres, es fundador y CEO de [Smithy.security](https://smithy.security), una empresa que desarrolla productos de código abierto para democratizar y simplificar la seguridad en el desarrollo de software.
@@ -40,6 +44,10 @@ Y esto no acaba aquí porque no todo es mostrar diapositivas; próximamente orga
 Spyros presentó su herramienta [Smithy](https://smithy.security/), cuyo objetivo es ayudar a la orquestación de workflows que, mediante una configuración sencilla permite integrar múltiples herramientas, reducir tareas manuales repetitivas, estandarizar la seguridad en entornos DevSecOps y, así, reducir en un elevado porcentaje el esfuerzo empleado en la securización de las aplicaciones. 
 
 ![Spyros](assets/images/event-q2-spyros.jpeg)
+
+Material de la presentación:
+
+* [How I reduced my AppSec workload (by 70%)](https://github.com/smithy-security/smithy/blob/main/docs/presentations/OWASP_Logrono_Chapter_2025.pdf)
 
 La jornada no concluyó con las charlas técnicas, sino que se prolongó en un ambiente distendido, donde tuvimos la oportunidad de seguir conversando con los ponentes y demás asistentes mientras disfrutábamos de unos vinos.
 
