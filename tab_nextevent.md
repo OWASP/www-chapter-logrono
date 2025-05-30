@@ -11,8 +11,8 @@ tags: logroño
 
 ## Siguiente charla/evento(s)
 
-Estamos ya preparando el siguiente evento que tendrá lugar con toda probabilidad a finales de septiembre. Anunciaremos la fecha lo antes posible.
+Estamos ya preparando el siguiente evento que tendrá lugar con toda probabilidad a finales de septiembre, después de la resaca de San Mateo. Anunciaremos la fecha lo antes posible.
 
-¿Quieres participar o sugerir algún tema? Ponte en contacto con los organizadores con tu propuesta, ¡estaremos encantados de recibirla!
+¿Quieres participar o sugerir algún tema? ¿Has estado recientemente en una conferencia y te apetece contarlo? Ponte en contacto con los organizadores con tu propuesta, ¡estaremos encantados de recibirla!
 
 ¡Nos vemos pronto!
