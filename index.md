@@ -12,7 +12,7 @@ meetup-group: https://www.meetup.com/owasp-logrono-chapter/
 
 ## Bienvenido
 
-![Logroño Chapter Image](assets/images/wallpaper.jpg)
+![Logroño Chapter Image](assets/images/owasp-lo-skyline.png)
 
 Esta es la sección OWASP de Logroño, La Rioja. Aquí encontrarás detalles sobre las reuniones que llevamos a cabo, redes sociales, etc. 
 
