@@ -29,10 +29,10 @@ Queremos que esta comunidad sea útil para ti y la mejor forma de conseguirlo es
 
 ¿Te animas a participar?
 
-- 23 de julio
-- 18:30. Estimamos unas 2 horas.
+- 23 de julio (miércoles)
+- 18:30. Estimamos unas 2 horas de duración
 - En las oficinas de Arsys Internet en Madre de Dios 21 (Logroño) 
 
-Inscríbete aquí [MeetUp](https://www.meetup.com/es-ES/owasp-logrono-chapter/events/308839684/)
+Inscríbete aquí 👉 [MeetUp](https://www.meetup.com/es-ES/owasp-logrono-chapter/events/308839684/)
 
 [1] aunque a lo mejor alguna cae... ;) 
