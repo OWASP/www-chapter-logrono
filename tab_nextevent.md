@@ -9,30 +9,25 @@ tags: logroño
 
 ---
 
-## Reunión abierta de OWASP Logroño — ¡Queremos escucharte!
+## Nuevo evento
 
-¡Hola a todos!
+¡Hola a todas y todos!
 
-OWASP Logroño lleva ya unos meses en marcha y la verdad es que estamos muy contentos con su funcionamiento.
+La fecha del próximo evento está por decidir pero, con casi toda certeza, será en septiembre.
 
-En este tiempo hemos contado con referentes internacionales como Takaharu Ogasa, Spyros Gasteratos o incluso Grant Ongers, entonces Presidente de la Junta Directiva Global de OWASP. También hemos disfrutado del conocimiento de expertos locales, que han compartido su experiencia en charlas y talleres muy enriquecedores.
+Nos gustaría contar con vosotros, que alguno de los que participáis habitualmente -o no- en estas sesiones de OWASP se animara a proponer una charla para el próximo evento. ¡Seguro que hay mucho conocimiento en la sala que valdría la pena compartir!
 
-Tenemos muchas ideas para el futuro y en las próximas semanas nos reuniremos para discutirlas, pero nos gustaría contar con vosotros y conocer vuestra opinión.
+No hace falta que sea algo super avanzado: una experiencia práctica, una herramienta que uséis habitualmente, algún fallo curioso, la historia de vuestro primer *ug bounty*... ¡todo suma!
 
-Por eso, os invitamos a una reunión más informal, sin charlas ni talleres programados [1]; un encuentro abierto en el que cada persona pueda contar su experiencia, presentar su idea y aportar su granito de arena:
+¿Quién se anima? 😄
 
-- ¿Qué esperas de OWASP Logroño? ¿Qué te gustaría que fuera?
-- ¿Qué tipo de actividades te gustaría ver?
-- ¿Prefieres más talleres prácticos, charlas técnicas o espacios abiertos para compartir conocimientos?
+Tenéis diferentes formas de contacto en el sitio web de [OWASP Logroño](https://owasp.org/www-chapter-logrono/), como:
 
-Queremos que esta comunidad sea útil para ti y la mejor forma de conseguirlo es contando contigo.
 
-¿Te animas a participar?
+* [LinkedIn](https://www.linkedin.com/company/owasp-logrono)
+* [BlueSky](https://bsky.app/profile/owasp-lo.bsky.social)
+* [Mastodon](https://infosec.exchange/@owasp_lo)
+* [Meetup](https://www.meetup.com/owasp-logrono-chapter/)
 
-- 23 de julio (miércoles)
-- 18:30. Estimamos unas 2 horas de duración
-- En las oficinas de Arsys Internet en Madre de Dios 21 (Logroño) 
 
-Inscríbete aquí 👉 [MeetUp](https://www.meetup.com/es-ES/owasp-logrono-chapter/events/308839684/)
-
-[1] aunque a lo mejor alguna cae... ;) 
+y nuestros correos electrónicos.

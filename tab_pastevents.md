@@ -11,7 +11,19 @@ tags: logroño
 
 ## 2024
 
-### Thursday, 25th July 2024 04:00pm (in-person)
+### Thursday, 23rd July 2024 04:00pm (in-person)
+
+Los líderes del capítulo nos reunimos frecuentemente, ya sea online o de forma presencial; pero, en esta ocasión, quisimos abrir la reunión a otros asistentes interesados, compartir nuestras inquietudes y escuchar sus opiniones.
+
+Explicamos nuestra actividad, hicimos nuestras propuestas y escuchamos ideas nuevas que seguro que iremos poniendo en marcha en el futuro más próximo.
+
+Volveremos tras la pausa veraniega. *Stay tuned...*
+
+PD. Muchas gracias a [Arsys](https://www.arsys.es/) por prestar sus instalaciones para la reunión.
+
+![oficinas de arsys](assets/images/arsys_jam.jpg)
+
+### Thursday, 22nd May 2024 04:00pm (in-person)
 
 Our last event in Logroño was an amazing opportunity to explain about threat modeling.
 
