@@ -17,7 +17,7 @@ Los líderes del capítulo nos reunimos frecuentemente, ya sea online o de forma
 
 Explicamos nuestra actividad, hicimos nuestras propuestas y escuchamos ideas nuevas que seguro que iremos poniendo en marcha en el futuro más próximo.
 
-Volveremos tras la pausa veraniega. *Stay tuned...*
+Volvemos tras la pausa veraniega. *Stay tuned...*
 
 PD. Muchas gracias a [Arsys](https://www.arsys.es/) por prestar sus instalaciones para la reunión.
 

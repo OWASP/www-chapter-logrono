@@ -17,7 +17,7 @@ La fecha del próximo evento está por decidir pero, con casi toda certeza, ser�
 
 Nos gustaría contar con vosotros, que alguno de los que participáis habitualmente -o no- en estas sesiones de OWASP se animara a proponer una charla para el próximo evento. ¡Seguro que hay mucho conocimiento en la sala que valdría la pena compartir!
 
-No hace falta que sea algo super avanzado: una experiencia práctica, una herramienta que uséis habitualmente, algún fallo curioso, la historia de vuestro primer *ug bounty*... ¡todo suma!
+No hace falta que sea algo super avanzado: una experiencia práctica, una herramienta que uséis habitualmente, algún fallo curioso, la historia de vuestro primer *bug bounty*... ¡todo suma!
 
 ¿Quién se anima? 😄
 
