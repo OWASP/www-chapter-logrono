@@ -11,6 +11,28 @@ tags: logroño
 
 ## 2025
 
+
+### Jueves 18 de septiembre de 2025
+
+En vísperas de las fiestas de San Mateo tuvo lugar una nueva sesión OWASP donde escuchamos una charla de [Luis Marqueta](https://es.linkedin.com/in/luismarqueta) sobre resistencia a ataques de fuerta bruta enfocado en el consumo de energía.
+
+Además, [Óscar Orellana](https://es.linkedin.com/in/oscarorellanaa) dirigió un workshop en el que, además de revisar los fundamentos del proxy [ZAP](https://www.zaproxy.org/), dio una master class sobre vulnerabilidades, debilidades, patrones de ataque y cómo los proyectos [CVE](https://www.cve.org/), [CWE](https://cwe.mitre.org/), [CAPEC](https://capec.mitre.org/) y [MITRE](https://attack.mitre.org/).
+
+Esperamos que os haya resultado interesante y que pasárais un rato agradable.
+
+
+![Password Strength](assets/images/PXL_20250918_160556041.jpg)
+
+
+![Nuestro logo](assets/images/20250918_160718568.jpg)
+
+
+![Hablando sobre ZAP](assets/images/PXL_20250918_171739912.jpg)
+
+
+Hasta la próxima y... ¡viva San Mateo! :)
+
+
 ### Jueves, 22 de mayo de 2025
 
 El 22 de mayo celebramos un nuevo evento de ciberseguridad en Logroño en el que contamos con la presencia de numerosos profesionales y entusiastas del ámbito de la seguridad. Aprovechando la cercanía del [OWASP Global AppSec EU 2025](https://genai.owasp.org/event/owasp-global-appsec-eu-2025/) que se celebra próximamente en Barcelona, varios ponentes internacionales tuvieron la deferencia de acercarse a Logroño para presentar sus charlas.

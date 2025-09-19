@@ -13,30 +13,6 @@ tags: logroño
 
 ### Thursday, 23rd July 2024 04:00pm (in-person)
 
-Nueva sesión OWASP donde tuvimos una charla de [Luis Marqueta](https://es.linkedin.com/in/luismarqueta) sobre resistencia a ataques de fuerta bruta enfocado en el consumo de energía.
-
-Además, [Óscar Orellana](https://es.linkedin.com/in/oscarorellanaa) dirigió un workshop en el que, además de repasar los fundamentos del proxy [ZAP](https://www.zaproxy.org/), dio una master class sobre vulnerabilidades, debilidades, patrones de ataque y cómo los proyectos [CVE](https://www.cve.org/), [CWE](https://cwe.mitre.org/), [CAPEC](https://capec.mitre.org/) y [MITRE](https://attack.mitre.org/).
-
-Esperamos que os haya resultado interesante y que pasárais un rato agradable.
-
-
-![Password Strength](assets/images/PXL_20250918_160556041.jpg)
-
-
-![Nuestro logo](assets/images/20250918_160718568.jpg)
-
-
-![Hablando sobre ZAP](assets/images/PXL_20250918_171739912.jpg)
-
-
-
-¡Hasta la próxima!
-
-
-
-
-### Thursday, 23rd July 2024 04:00pm (in-person)
-
 Los líderes del capítulo nos reunimos frecuentemente, ya sea online o de forma presencial; pero, en esta ocasión, quisimos abrir la reunión a otros asistentes interesados, compartir nuestras inquietudes y escuchar sus opiniones.
 
 Explicamos nuestra actividad, hicimos nuestras propuestas y escuchamos ideas nuevas que seguro que iremos poniendo en marcha en el futuro más próximo.

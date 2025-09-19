@@ -11,7 +11,7 @@ tags: logroño
 
 ## En preparación
 
-¡Gracias por vuestra asistenc al evento anterior! Estamos ya desarrollando las ideas para el siguiente :)
+¡Gracias por vuestra asistencia al evento anterior! Esperamos que os resultase interesante y estamos ya desarrollando las ideas para el siguiente :)
 
 Como siempre, os recordamos que nos gustaría contar con vosotros, que alguno de los que participáis habitualmente -o no- en estas sesiones de OWASP os animéis a proponer o presentar una charla para el próximo evento. ¡Seguro que hay mucho conocimiento en la sala que valdría la pena compartir!
 
