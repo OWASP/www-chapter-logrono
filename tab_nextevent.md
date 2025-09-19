@@ -9,23 +9,9 @@ tags: logroño
 
 ---
 
-## Taller práctico de ZAP Proxy + Charla "¿Es segura tu password?"
+## En preparación
 
-¡Hola a todas y todos!
-
-Ya hay fecha para el próximo evento: será el jueves, 18 de septiembre de 2025 a las 18:30. 
-
-Estrenamos local: Circular Universe en C/ Valdegastea, 2 (Logroño), la antigua sede de CajaRioja. ¿Qué mejor para preparar los San Mateos?
-
-Como lo prometido es deuda, realizaremos un taller práctico de ZAP Proxy, la conocida herramienta de detección de vulnerabilidades en aplicaciones web. Se tratará también la generación de informes.
-
-<img src="assets/images/zapping.png">
-
-**No olvides traer tu portátil** para sacar todo el provecho posible del taller.
-
-No es necesario tener conocimiento previo de la herramienta pero mejor si la traes instalada.
-
-Previamente, tendremos una pequeña charla sobre la fortaleza de contraseñas. ¿Realmente son seguras? ¿Hasta cuándo? ¿Cómo puedes saberlo?
+¡Gracias por vuestra asistenc al evento anterior! Estamos ya desarrollando las ideas para el siguiente :)
 
 Como siempre, os recordamos que nos gustaría contar con vosotros, que alguno de los que participáis habitualmente -o no- en estas sesiones de OWASP os animéis a proponer o presentar una charla para el próximo evento. ¡Seguro que hay mucho conocimiento en la sala que valdría la pena compartir!
 
