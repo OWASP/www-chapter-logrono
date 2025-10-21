@@ -1,0 +1,32 @@
+community:
+  - name: chapter-logroño-larioja
+    platform: slack
+    url: https://owasp.slack.com/archives/C07FF3QKW84
+currency: EUR
+leaders:
+  - name: Oscar Orellana
+    email: oscar.orellana.artigas@owasp.org
+  - name: Luis Marqueta
+    email: luis.marqueta@owasp.org
+    github: lmarqueta
+  - name: Pablo Gómez
+    email: pgomez@redsauce.net
+    github: pgomez-redsauce
+location:
+  country: Spain
+  country_code: ES
+  region: La Rioja
+  city: Logroño
+  latitude: 42.4661196
+  longitude: -2.4396676
+meetup_group: https://www.meetup.com/owasp-logrono-chapter/
+name: OWASP Logroño
+repositories:
+  - name: www-chapter-logrono
+    url: https://github.com/OWASP/www-chapter-logrono
+    description: OWASP Foundation Web Repository
+tags:
+  - logroño
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-logrono
