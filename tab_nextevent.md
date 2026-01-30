@@ -24,6 +24,5 @@ Tenéis diferentes formas de contacto en el sitio web de [OWASP Logroño](https:
 * [LinkedIn](https://www.linkedin.com/company/owasp-logrono)
 * [BlueSky](https://bsky.app/profile/owasp-lo.bsky.social)
 * [Mastodon](https://infosec.exchange/@owasp_lo)
-* [Meetup](https://www.meetup.com/owasp-logrono-chapter/)
 
 y nuestros correos electrónicos.
