@@ -27,10 +27,10 @@ Estad atentos, que no habrá muchas plazas. Estamos de nuevo en [MeetUp](https:/
 * Página del capítulo: [https://owasp.org/www-chapter-logrono/](https://owasp.org/www-chapter-logrono/) 
 * LinkedIn: [https://es.linkedin.com/company/owasp-logrono](https://es.linkedin.com/company/owasp-logrono/)
 * Mastodon: [@owasp_lo](https://infosec.exchange/@owasp_lo)
-* Bluesky: [@owasp-lo.bsky.social](https://infosec.exchange/@owasp_lo) 
+* Bluesky: [@owasp-lo.bsky.social](https://infosec.exchange/@owasp_lo)
 
 
 Saludos,
 
-**Leadership Team OWASP Logroño Chapter**
+**El equipo de OWASP Logroño**
 
