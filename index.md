@@ -20,6 +20,8 @@ Hace tiempo que no nos vemos...
 
 Hablaremos, cómo no, de Inteligencia Artificial y alguno de los proyectos core de OWASP.
 
+Unas semanas después hablaremos del OWASP Global AppSec EU 2026, donde mandamos una unidad móvil.
+
 Estad atentos, que no habrá muchas plazas. Estamos de nuevo en [MeetUp](https://www.meetup.com/es-es/owasp-logrono-chapter/) donde anunciaremos el evento y seguimos en nuestras redes sociales:
 
 * Página del capítulo: [https://owasp.org/www-chapter-logrono/](https://owasp.org/www-chapter-logrono/) 
