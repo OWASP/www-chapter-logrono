@@ -20,7 +20,7 @@ Ayer conocimos los principales riesgos en LLM y aplicaciones agénticas a travé
 
 En unas semanas hablaremos del OWASP Global AppSec EU 2026, donde enviamos una "unidad móvil" que nos contará lo más interesante de la conferencia (¡que fue mucho!)
 
-Animaos a presentar vuestra charla, t
+Animaos a presentar vuestra charla, seguro que tenéis temas interesantes para compartir. Podéis enviarnos las propuestas por correo a las direcciones que tenéis ahí 👉
 
 Una vez más, gracias a [Arsys](https://arsys.es) por ofrecer sus instalaciones para el evento.
 
