@@ -12,21 +12,17 @@ meetup-group: https://www.meetup.com/owasp-logrono-chapter/
 
 ![Logroño Chapter Image](assets/images/owasp-lo-skyline.png)
 
-# Save the date
+# Termina un evento...
 
-Hace tiempo que no nos vemos...
+...y empezamos a preparar el siguiente.
 
-¡Pues el próximo **jueves 16 de julio** lo solucionamos!
+Ayer conocimos los principales riesgos en LLM y aplicaciones agénticas a través de los OWASP Top Ten y de la mano de Luis Marqueta, Security Engineer en IONOS.
 
-Hablaremos, cómo no, de Inteligencia Artificial y alguno de los proyectos core de OWASP.
+En unas semanas hablaremos del OWASP Global AppSec EU 2026, donde enviamos una "unidad móvil" que nos contará lo más interesante de la conferencia (¡que fue mucho!)
 
-Inscripciones en [MeetUp](https://www.meetup.com/es-es/owasp-logrono-chapter/events/315600773/)
+Animaos a presentar vuestra charla, t
 
-Unas semanas después hablaremos del OWASP Global AppSec EU 2026, donde mandamos una unidad móvil.
-
-No lo dejéis para última hora que no habrá muchas plazas.
-
-Seguimos en nuestras redes sociales:
+Una vez más, gracias a [Arsys](https://arsys.es) por ofrecer sus instalaciones para el evento.
 
 * Página del capítulo: [https://owasp.org/www-chapter-logrono/](https://owasp.org/www-chapter-logrono/) 
 * LinkedIn: [https://es.linkedin.com/company/owasp-logrono](https://es.linkedin.com/company/owasp-logrono/)
@@ -34,7 +30,7 @@ Seguimos en nuestras redes sociales:
 * Bluesky: [@owasp-lo.bsky.social](https://infosec.exchange/@owasp_lo)
 
 
-Saludos,
+Saludos y ¡buen verano!
 
 **El equipo de OWASP Logroño**
 
